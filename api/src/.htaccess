@@ -1,0 +1,2 @@
+# El código de la API no se sirve directamente: solo se usa desde api/index.php.
+Require all denied

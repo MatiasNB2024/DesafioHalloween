@@ -1,0 +1,2 @@
+# El script SQL (con hashes de contraseñas) no tiene que poder descargarse desde el navegador.
+Require all denied
