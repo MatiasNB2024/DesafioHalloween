@@ -1,0 +1,2 @@
+# Configuración local (contraseñas de tu MySQL): no se sube al repositorio.
+api/src/config.local.php
